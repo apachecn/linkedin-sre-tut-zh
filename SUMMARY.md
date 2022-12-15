@@ -1,4 +1,4 @@
-+   [SRE 学校](docs/001.md)
++   [Linkedin SRE 中文教程](README.md)
 +   [SRE 学校](docs/001.md)
 +   [101 级](docs/002.md)
 +   [基础系列](docs/003.md)
